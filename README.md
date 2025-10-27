@@ -22,23 +22,22 @@ vi)Sequence Diagram
 # DIAGRAMS:
 
 ## Usecase Diagram
-![Screenshot 2025-05-12 103450](https://github.com/user-attachments/assets/8e7086bc-f10c-4b40-a066-0a913557135b)
+<img width="986" height="799" alt="Screenshot 2025-10-27 235221" src="https://github.com/user-attachments/assets/db7c09ef-d035-44b6-9df8-930fcd75655c" />
+
 ## Class Diagram
-![Screenshot 2025-05-12 104039](https://github.com/user-attachments/assets/00de7e1c-2110-4430-a40e-b91b3d75c033)
+<img width="1054" height="804" alt="Screenshot 2025-10-27 235045" src="https://github.com/user-attachments/assets/856dd6c1-e696-43aa-9264-cd60e1e00aab" />
 
 ## Activity Diagram
-![Screenshot 2025-05-12 104144](https://github.com/user-attachments/assets/11e14089-98bd-456a-bc05-809ba5a2ff7b)
+<img width="828" height="979" alt="Screenshot 2025-10-27 235522" src="https://github.com/user-attachments/assets/512be259-3fb6-4af0-a38f-fff233c98deb" />
 
 ## Communication Diagram
-![Screenshot 2025-05-12 104748](https://github.com/user-attachments/assets/b09448a7-199c-4f27-b958-4157d812f398)
+<img width="959" height="788" alt="Screenshot 2025-10-27 235136" src="https://github.com/user-attachments/assets/092400cd-e476-42cd-abcd-e6d36f400cec" />
 
 ## Package Diagram
-![Screenshot 2025-05-12 104827](https://github.com/user-attachments/assets/aec68862-5736-457a-8d5f-085ab46832fc)
+<img width="1035" height="528" alt="Screenshot 2025-10-27 235150" src="https://github.com/user-attachments/assets/250ad8b1-bbc7-4ade-b915-81df053cae7a" />
 
 ## Sequence Diagram
-
-![Screenshot 2025-05-12 104908](https://github.com/user-attachments/assets/21882ba3-549d-4d57-be69-3f4e74f00a27)
-
+<img width="1021" height="903" alt="Screenshot 2025-10-27 235422" src="https://github.com/user-attachments/assets/d7d1b9d0-b379-43e7-8046-ba9af9707cac" />
 
 
 # RESULT:
